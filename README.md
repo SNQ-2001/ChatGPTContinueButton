@@ -5,5 +5,5 @@
     <a href="https://github.com/SNQ-2001/ChatGPTContinueButton/stargazers"><img src="https://img.shields.io/github/stars/SNQ-2001/ChatGPTContinueButton"></a>
     <a href="https://github.com/SNQ-2001/ChatGPTContinueButton/"><img src="https://img.shields.io/github/languages/top/SNQ-2001/ChatGPTContinueButton"></a>
     <a href="https://github.com/SNQ-2001/ChatGPTContinueButton/blob/main/LICENSE"><img src="https://img.shields.io/github/license/SNQ-2001/ChatGPTContinueButton"></a>
-    <a href="https://github.com/SNQ-2001/ChatGPTContinueButton"><img src="https://github.com/SNQ-2001/ChatGPTContinueButton/blob/main/icon.png" style="width:80%;"></a>
+    <a href="https://github.com/SNQ-2001/ChatGPTContinueButton"><img src="https://raw.githubusercontent.com/SNQ-2001/ChatGPTContinueButton/main/screenshot.png" style="width:80%; border-radius:30px"></a>
 </div>
