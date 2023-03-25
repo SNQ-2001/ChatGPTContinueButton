@@ -1,0 +1,17 @@
+{
+    "name": "ChatGPT Continue Button",
+    "version": "1.0",
+    "manifest_version": 2,
+    "description": "Add a continue button to ChatGPT",
+    "icons": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+    },
+    "content_scripts": [
+        {
+            "matches": ["https://chat.openai.com/chat/*"],
+            "js": ["content.js"]
+        }
+    ]
+}
