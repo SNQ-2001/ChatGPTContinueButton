@@ -35,3 +35,15 @@ sendButton.style.right = "85px"
 
 // ChatGPTの入力欄の直後に、ボタンを挿入する
 div.appendChild(continueButton);
+
+const target = document.body; // body要素を監視
+
+const observer = new MutationObserver(function (mutations) {
+    console.table(mutations);
+});
+
+// 監視を開始
+observer.observe(target, {
+    childList: true,
+    subtree: true
+});
